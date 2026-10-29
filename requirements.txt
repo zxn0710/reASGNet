@@ -1,0 +1,59 @@
+# ===== 核心训练框架 =====
+pytorch-lightning==1.5.7
+torchmetrics==0.6.2
+
+# ===== 科学计算 / 图像处理 =====
+numpy==1.21.5
+scipy==1.7.3
+scikit-image==0.16.2
+scikit-learn==1.0.2
+opencv-python==4.5.5.62
+pillow==8.4.0
+imageio==2.13.5
+tifffile==2021.11.2
+pywavelets==1.2.0
+matplotlib==3.5.1
+pandas==1.4.1
+seaborn==0.11.2
+
+# ===== 医学图像 =====
+SimpleITK==2.1.1
+nibabel==3.2.1
+medpy==0.4.0
+h5py==3.5.0
+
+# ===== 数据增强 / 模型工具 =====
+batchgenerators==0.21
+einops==0.4.1
+timm==0.6.7
+mmcv==1.4.2
+addict==2.4.0
+yapf==0.32.0
+
+# ===== 可视化 / 日志 =====
+tensorboard==2.7.0
+tensorboardX==2.4.1
+visdom==0.1.8.9
+dominate==2.4.0
+websocket-client==1.2.3
+
+# ===== 模型统计 =====
+thop==0.0.31.post2005241907
+torch-summary==1.4.4
+torchstat==0.0.6
+
+# ===== 其他工具 =====
+tqdm==4.62.3
+pyyaml==6.0
+requests==2.26.0
+openpyxl==3.0.10
+tabulate==0.8.10
+argparse==1.4.0
+docopt==0.6.2
+future==0.18.2
+networkx==2.6.3
+joblib==1.1.0
+threadpoolctl==3.0.0
+protobuf==3.20.1
+fvcore
+six
