@@ -1,4 +1,4 @@
-# ASGNet (ASGNet_26_TCSVT) 复现文档
+# ASGNet复现文档
 
 ## 一、环境与硬件适配说明
 
